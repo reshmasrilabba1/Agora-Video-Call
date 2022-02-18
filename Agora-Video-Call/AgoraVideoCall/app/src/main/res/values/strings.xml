@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agora Video Call</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="agora_app_id" translatable="false">231893093f2e4a81a67ad2da76d754ea</string>
+
+    <string name="agora_access_token" translatable="false">006bff49728b0884425bd5d96622725a626IABaKwshoe5qVQgkOdLw7ttsbUAxgYA0Nj61IRDSFjwpAizax3wAAAAAEACEYx7AFDERYgEAAQAWMRFi</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
